@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## My itinerary on deep reinforcement learning and optimal control for robotics. 
 
 You can use the [editor on GitHub](https://github.com/mch5048/cheolhuiMIN.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
